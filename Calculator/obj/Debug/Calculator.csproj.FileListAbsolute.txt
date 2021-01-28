@@ -1,0 +1,7 @@
+D:\Git\Calculator\Calculator\bin\Debug\Calculate.exe.config
+D:\Git\Calculator\Calculator\bin\Debug\Calculate.exe
+D:\Git\Calculator\Calculator\bin\Debug\Calculate.pdb
+D:\Git\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Git\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Git\Calculator\Calculator\obj\Debug\Calculate.exe
+D:\Git\Calculator\Calculator\obj\Debug\Calculate.pdb
